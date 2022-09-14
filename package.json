@@ -1,0 +1,15 @@
+{
+  "name": "appceess-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Aceshiaa",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/windsay/appceess-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
