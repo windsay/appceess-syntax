@@ -1,11 +1,11 @@
 {
   "name": "appceess-syntax",
+  "main": "1ผล",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "Aceshiaa",
+  "version": "1.1.0",
+  "description": "าที่คิด",
   "keywords": [
-    "syntax",
-    "theme"
+    "สุด"
   ],
   "repository": "https://github.com/windsay/appceess-syntax",
   "license": "MIT",
